@@ -1,4 +1,4 @@
-<h1 align="center"> Bode - 💻 Segurança da Informação 🛡️</h1>
+<h1 align="center"> Pedro - 💻 Segurança da Informação 🛡️</h1>
 
 <div align="center">
   <pre>
