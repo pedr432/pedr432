@@ -62,4 +62,11 @@
 
 ---
 
-## 🧵 Estética Terminal
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="200" alt="Kali">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Team-%23FF0000?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/SecOps-%2300A0FF?style=for-the-badge&logo=linux&logoColor=white">
+</p>
