@@ -62,6 +62,22 @@
 
 </div>
 
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%"><img height="170" src="https://github-stats-extended.vercel.app/api?username=igor-heiser&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0057B8&text_color=ffffff&icon_color=0057B8&bg_color=0d1117" alt="Igor's GitHub Stats" /></td>
+<td align="center" width="50%"><img height="170" src="https://streak-stats.demolab.com?user=igor-heiser&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0057B8&fire=0057B8&currStreakLabel=0057B8" alt="Igor's GitHub Streak" /></td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td align="center"><img src="./assets/languages.svg" width="100%" alt="Igor's Most Used Languages" /></td>
+</tr>
+</table>
+
+<br>
 ---
 
 ## 🔎 Registro de Aprendizado
