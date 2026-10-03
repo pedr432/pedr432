@@ -1,99 +1,172 @@
-<h1 align="center">  💻 Segurança da Informação 🛡️</h1>
+<h1 align="center">Sombrascripty</h1>
 
-<div align="center">
-  <pre>
-````````````````````````````````````````````````````````````````````
-░██                       ░██████████            ░██████   ░██████  
-░██                           ░██               ░██   ░██ ░██   ░██ 
-░██  ░███████   ░███████      ░██    ░██    ░██ ░██   ░██ ░██       
-░██ ░██    ░██ ░██            ░██     ░██  ░██   ░██████  ░███████  
-░██ ░██    ░██  ░███████      ░██      ░█████   ░██   ░██ ░██   ░██ 
-░██ ░██    ░██        ░██     ░██     ░██  ░██  ░██   ░██ ░██   ░██ 
-░██  ░███████   ░███████      ░██    ░██    ░██  ░██████   ░██████  
-                                                                    
-                                                                    
-                                                                    
-                                                         
-  </pre>
-
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
-
-
-<h2 align="left">
-  x86
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
+<h3 align="center">Information Security Student | Offensive Security | Developer</h3>
 
 <p align="center">
-  Estudante dedicado de Segurança Ofensiva  
-  Buscando maestria em sistemas, redes e análise de vulnerabilidades  
-  <br>
-  <i>"A maior falha não esta no sistema e sim nas pessoas"</i>
+  <a href="https://github.com/bodepika">
+    <img src="https://img.shields.io/github/followers/bodepika?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+  </a>
+  <a href="https://github.com/bodepika">
+    <img src="https://img.shields.io/github/stars/bodepika?label=Stars&style=for-the-badge&logo=github&color=181717"/>
+  </a>
 </p>
 
 ---
 
-## 🛰️ Sobre mim
-- 🛡️ Me aprofundando em fundamentos sólidos: redes, Linux, protocolos, arquitetura.  
-- 🧪 Estudando técnicas de avaliação de segurança de forma ética e responsável.  
-- 📚 Aprendendo continuamente sobre análise de logs, automação e identificação de anomalias.  
-- 🔍 Focado em criar uma base técnica forte antes de especializações.  
-- 🚀 Minha meta: me tornar um profissional completo em segurança e desenvolvimento.
-- 🪙 Aprofundando o meu conhecimento em Tokens, Servidores, Penetração.
+## About Me
+
+Information Security student focused on understanding how systems, networks and applications work from both development and security perspectives. My studies center on offensive security, web security, OSINT, network analysis, automation and software development.
+
+I learn by building laboratories, testing systems in authorized environments and documenting everything I discover.
+
+> Security is not only about finding vulnerabilities. It is about understanding why they exist.
+
 ---
 
-## ⚒️ Stack & Ferramentas que estudo
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,bash,java,js,html,css" /><br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,postgres,docker" />
+## Professional Experience
+
+<a href="https://www.liveoficial.com.br/">
+<img align="left" height="94px" width="94px" alt="LIVE!" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLU27Jcu2mT6Akde9kq_KLxEVns9bpVb3HlZ0xvCd_3c_pO4c7dsLNEcB&s=10"/>
+</a>
+
+**IT Infrastructure Apprentice** \
+[**LIVE!**](https://www.liveoficial.com.br/) | 1 year \
+**Technologies:** `JavaScript` `HTML` `DHCP` `PowerShell` \
+**Scope:** IT infrastructure, technical support and employee onboarding
+
+<br clear="left"/>
+
+**Responsibilities**
+
+- Configured and troubleshot DHCP and network fundamentals
+- Managed corporate folders and access permissions
+- Diagnosed driver issues and investigated bugs
+- Provided technical support and onboarded new employees
+- Worked in Windows environments using PowerShell
+
+This role connected my theoretical studies to real-world infrastructure problems.
+
+---
+
+## Areas of Study
+
+**Web Security**
+`XSS` `Cookies` `Tokens` `Authentication` `Authorization` `HTTP` `OAST` `OWASP` `JavaScript Analysis` `Web Recon`
+
+**Network Security**
+`TCP/IP` `DNS` `DHCP` `ARP` `Nmap` `Network Enumeration` `Traffic Analysis`
+
+**Password Auditing**
+`Hydra` `John the Ripper` `Hash Analysis` `Brute Force` `Dictionary Attacks`
+
+**Other Topics**
+`Advanced OSINT` `Reconnaissance & Enumeration` `Security Automation`
+
+> All security testing is performed in laboratories, authorized environments or on systems where I have explicit permission.
+
+---
+
+## Featured Projects
+
+<!-- Add your best projects here. Suggested format:
+
+| Project Name | Project Name |
+|---|---|
+| **Short description of what it does.** <br><br> **Impact:** result or learning <br><br> **Stack:** Python, Docker | **Short description.** <br><br> **Impact:** result or learning <br><br> **Stack:** Java, Git |
+
+-->
+
+Coming soon.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
 </p>
 
-> Sempre estudando com responsabilidade, ambiente controlado e ética profissional.
+**Technologies and Environment**
 
----
-
-## 📊 Minhas Estatísticas
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=bodepika&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr432&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%"><img height="170" src="https://github-stats-extended.vercel.app/api?username=igor-heiser&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0057B8&text_color=ffffff&icon_color=0057B8&bg_color=0d1117" alt="Igor's GitHub Stats" /></td>
-<td align="center" width="50%"><img height="170" src="https://streak-stats.demolab.com?user=igor-heiser&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0057B8&fire=0057B8&currStreakLabel=0057B8" alt="Igor's GitHub Streak" /></td>
-</tr>
-</table>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td align="center"><img src="./assets/languages.svg" width="100%" alt="Igor's Most Used Languages" /></td>
-</tr>
-</table>
-
-<br>
----
-
-## 🔎 Registro de Aprendizado
-- Protocolos: TCP/IP, DNS, HTTP, TLS  
-- Conceitos: OWASP Top 10, princípios de segurança, autenticação vs autorização  
-- Ferramentas: linha de comando, análise de tráfego local, automação com Python  
-- Mentalidade: observação, análise, método e responsabilidade
-
----
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="150" alt="Kali">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" width="150" alt"Arch">
+<p>
+<img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,git,github"/>
 </p>
 
+**Development Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse"/>
+</p>
+
+**Productivity:** `Obsidian` `Notion` `Figma`
+
+**Security Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ettercap-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wappalyzer-4600A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retire.js-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackTools-111111?style=for-the-badge"/>
+</p>
+
+My primary research environment is **Kali Linux**, used for security laboratories, network analysis, web security, reconnaissance, vulnerability research and automation.
+
+---
+
+## Automation
+
+I study automation and bot development, with the goal of understanding how authentication and communication work behind the interface.
+
+- API integration and analysis
+- Authentication, access tokens, bot tokens, cookies and sessions
+- HTTP requests
+- Python automation and automated workflows
+
+---
+
+## Security Methodology
+
+```text
+Reconnaissance -> Enumeration -> Analysis -> Controlled Test
+      -> Exploitation -> Documentation -> Mitigation -> Retest
+```
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-%23FF0000?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/SecOps-%2300A0FF?style=for-the-badge&logo=linux&logoColor=white">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bodepika&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodepika&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+focus:
+  studying: [Offensive Security, Web Security, OSINT, Network Analysis]
+  building: [Security laboratories, Python automation]
+  environment: [Kali Linux, Docker, Git]
+  approach: Authorized testing and thorough documentation
+```
+
+---
+
+## Contact
+
+I am open to discussing projects, collaborations and opportunities in Information Security and software development.
+
+<p align="center">
+  <a href="https://github.com/bodepika">
+    <img src="https://img.shields.io/badge/GitHub-bodepika-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
