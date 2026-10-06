@@ -1,4 +1,4 @@
-<h1 align="center">Joelx86</h1>
+<h1 align="center">Welcome!</h1>
 
 <h3 align="center">Information Security Student | Offensive Security | Developer</h3>
 
@@ -66,20 +66,6 @@ This role connected my theoretical studies to real-world infrastructure problems
 
 ---
 
-## Featured Projects
-
-<!-- Add your best projects here. Suggested format:
-
-| Project Name | Project Name |
-|---|---|
-| **Short description of what it does.** <br><br> **Impact:** result or learning <br><br> **Stack:** Python, Docker | **Short description.** <br><br> **Impact:** result or learning <br><br> **Stack:** Java, Git |
-
--->
-
-Coming soon.
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -131,33 +117,12 @@ I study automation and bot development, with the goal of understanding how authe
 
 ---
 
-## Security Methodology
-
-```text
-Reconnaissance -> Enumeration -> Analysis -> Controlled Test
-      -> Exploitation -> Documentation -> Mitigation -> Retest
-```
-
----
-
 ## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bodepika&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodepika&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-## Current Focus
-
-```yaml
-focus:
-  studying: [Offensive Security, Web Security, OSINT, Network Analysis]
-  building: [Security laboratories, Python automation]
-  environment: [Kali Linux, Docker, Git]
-  approach: Authorized testing and thorough documentation
-```
 
 ---
 
