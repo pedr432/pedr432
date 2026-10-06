@@ -17,6 +17,8 @@
 
 Information Security student focused on understanding how systems, networks and applications work from both development and security perspectives. My studies center on offensive security, web security, OSINT, network analysis, automation and software development.
 
+I am currently enrolled at CentroWEG, where I have been studying for over a year and am close to completing the program.
+
 I learn by building laboratories, testing systems in authorized environments and documenting everything I discover.
 
 > Security is not only about finding vulnerabilities. It is about understanding why they exist.
