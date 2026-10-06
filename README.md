@@ -134,4 +134,9 @@ I am open to discussing projects, collaborations and opportunities in Informatio
   <a href="https://github.com/bodepika">
     <img src="https://img.shields.io/badge/GitHub-bodepika-181717?style=for-the-badge&logo=github"/>
   </a>
+  
+  <a href="https://instagram.com/bodezicaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-414245?style=for-the-badge&logo=instagram&logoColor=E4405F" target="_blank"></a>
+  <a href = "bodezica@proton.me" target="_blank"><img src="https://img.shields.io/badge/-Gmail-414245?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0D1B2A&height=120&section=footer"/>
 </p>
